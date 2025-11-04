@@ -4,5 +4,8 @@
 
 
     "welcome_channel_id": 1434035994465796107,
-    "leave_channel_id": 1434221758419833023
+    "leave_channel_id": 1434221758419833023,
+
+    "ping_message_id": 1434941737327132903,
+    "ping_role_id": 1434034488098426940
 }
