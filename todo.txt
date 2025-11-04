@@ -1,0 +1,5 @@
+- Automatyczne przeładowanie cogs po zmianie plików
+- Komendy administratora typu kick, mute, warn, ban
+- Komendy 4fun. 
+- Doświadczenie oraz poziomu
+- Ekonomia

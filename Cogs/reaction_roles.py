@@ -33,7 +33,6 @@ class ReactionRoles(commands.Cog):
 
         member = guild.get_member(user_id)
         if (member is None):
-            print("6")
             return
             
         embed = discord.Embed(

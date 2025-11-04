@@ -13,8 +13,6 @@ def load_json(file_path):
         print("Upon executing found error: ", e)
         return {"Error": f"{e}"}
 
-
-
 def get_value(data, value):
     try:
         return data[value]

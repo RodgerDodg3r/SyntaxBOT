@@ -9,9 +9,10 @@ intents.reactions = True
 intents.guilds = True
 intents.members = True
 intents.message_content = True
+intents.messages = True
 
 #Bot init
-bot = commands.Bot(command_prefix='!', intents=intents)
+bot = commands.Bot(command_prefix='!', intents=intents,max_messages=10000)
 
 
 @bot.event

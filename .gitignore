@@ -1,6 +1,6 @@
 bot_auth.json
 ./env
-./Cogs/__pycashe__
+./Cogs/__pycache__
 token.json
-./utilities/__pycashe__
+./utilities/__pycache__
 ./python_enviroment
