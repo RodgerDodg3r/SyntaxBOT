@@ -25,7 +25,7 @@ async def on_ready():
     print(f"Loaded cogs: {list(bot.cogs.keys())}")
     print(f"Registered commands: {[cmd.name for cmd in bot.tree.get_commands()]}")
     
-    guild_id = 1062985187278991390
+    guild_id = 1120125445476724737
     
     try:
         # Clear guild-specific commands first

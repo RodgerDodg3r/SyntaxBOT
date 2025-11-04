@@ -14,9 +14,9 @@ class WelcomeLeaveMessage(commands.Cog):
             description=(
                 f"Witaj, {member.mention}!\n\n"
                 f"Cieszymy się, że dołączyłeś/aś do **{member.guild.name}** 💻\n\n"
-                "▪️ Przeczytaj kanał <#1434024794508099737>\n"
-                "▪️ Wybierz swoje role w <#1434024623045083247>\n"
-                "▪️ Dołącz do dyskusji w <#1434025212805910538>\n\n"
+                "▪️ Przeczytaj regulamin w <#1434034956836802651>\n"
+                "▪️ Wybierz swoje role w <#1434941589108822026>\n"
+                "▪️ Dołącz do dyskusji w <#1434036507009876148>\n\n"
                 "Zespół **Syntax** życzy udanej kompilacji! ⚙️"
             ),
             color=discord.Color.green()  # pasuje do TokyoNight
